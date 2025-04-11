@@ -42,7 +42,7 @@ class Simple_WebP_Converter
         }
 
         // Get image quality
-        $quality = get_option('swc_quality', 80);
+        $quality = get_option('swc_quality', 75);
         $delete_original = get_option('swc_delete_original') === '1';
         $resize_enabled = get_option('swc_resize_enabled') === '1';
         $original_file = $file;
