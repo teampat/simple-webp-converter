@@ -14,8 +14,8 @@ A WordPress plugin that automatically converts uploaded images to WebP format wi
 
 ## Requirements
 
-- WordPress 5.0 or higher
-- PHP 7.2 or higher
+- WordPress 6.7 or higher
+- PHP 7.4 or higher
 - PHP Imagick or GD extension with WebP support
 
 ## Installation
