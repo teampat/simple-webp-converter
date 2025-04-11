@@ -98,7 +98,7 @@ class Simple_WebP_Converter
     private function generate_unique_webp_filename($original_file)
     {
         $path_parts = pathinfo($original_file);
-        $base_name = $path_parts['filename'];
+        $base_name = strtolower($path_parts['filename']);
         $directory = $path_parts['dirname'];
         $extension = '.webp';
 
