@@ -38,7 +38,7 @@ A WordPress plugin that automatically converts uploaded images to WebP format wi
 
 ## Default Settings
 
-- Quality: 80%
+- Quality: 75%
 - Delete Original Images: Enabled
 - Image Resize: Enabled
 - Max Width: 2048px

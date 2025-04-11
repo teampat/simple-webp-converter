@@ -45,7 +45,7 @@ function team_webp_converter_activate()
 
     // Add default options
     add_option('swc_enabled', '0');
-    add_option('swc_quality', '80');
+    add_option('swc_quality', '75');
     add_option('swc_delete_original', '1');
     add_option('swc_resize_enabled', '1');
     add_option('swc_max_width', '2048');
