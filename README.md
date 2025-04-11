@@ -5,7 +5,7 @@ A WordPress plugin that automatically converts uploaded images to WebP format wi
 ## Features
 
 - Automatic conversion of uploaded images to WebP format
-- Customizable quality settings (default: 80%)
+- Customizable quality settings (default: 75%)
 - Option to delete original images after conversion (enabled by default)
 - Image resizing capabilities with max width/height settings (enabled by default)
 - Supports JPG, JPEG, and PNG source formats
